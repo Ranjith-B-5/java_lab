@@ -1,0 +1,14 @@
+Step 1: Start
+Step 2: create by buttons, textfields and labels for textfields.
+Step 3: show the values pressed in the text field and and do the operations according to the 
+button clicked.
+Step 4: Create an object for the MyCalc class in main()
+Step 5: Stop
+
+
+
+Step 1: Start
+Step 2: Create 3 circles, colored red , yellow and green and create corresponding buttons
+Step 3: Dim all the colors , when the button is clicked corresponding color is shown at full 
+brightness
+Step 4: Stop
